@@ -6,6 +6,6 @@
 </head>
 <body>
 <h1>Our GitHub Project</h1>
-<p id="message">Stephen Hopfensperger</p>
+<p id="message">Version control is useful for managing a large scale project and reversing errors without having to reverse too much.</p>
 </body>
 </html>
