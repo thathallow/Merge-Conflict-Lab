@@ -7,5 +7,6 @@
 <body>
 <h1>Our GitHub Project</h1>
 <p id="message">Version control is useful for managing a large scale project and reversing errors without having to reverse too much.</p>
+<p id="message">Teamwork is important because working together help improve productivity and everything is easier with someone helping out.</p>
 </body>
 </html>
